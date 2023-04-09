@@ -7,10 +7,12 @@ First, run the development server:
 - Clone the repository and run following commands
 
 ```bash
-cd server
+// Start server
+cd server/
 npm install
 npm run start
-# and
+
+// Start client
 cd client/
 npm install
 npm run dev
